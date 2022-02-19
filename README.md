@@ -14,7 +14,7 @@ A map is given by a simple bw image, with black pixels representing wall.
 <img src=floor_plan.png>
 
 ## Demo
-
+https://user-images.githubusercontent.com/42042078/154821891-b562690c-0267-4171-9299-c70776025068.mp4
 
 ## Usage
 
