@@ -8,6 +8,8 @@ A simulated robot car moves around in a known environment. Connected to the car 
 
 The purpose of this implementation is to determine the location of the robot car using only the lidar data.
 
+This implementation of the `ParticleFilter` also supports *transportation*. If the robot car suddenly finds itself in a different position or if the filter drifts too much, the entire map is resampled anew. This can be seen at 01:04 in the demo video.
+
 ## Map
 A map is given by a simple bw image, with black pixels representing wall.
 
